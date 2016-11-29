@@ -1,0 +1,54 @@
+body {
+    font-family: 'Scope One', serif;
+    background-image: url("https://hd.unsplash.com/photo-1445824285584-336d1e77abbf");
+    background-size: cover;
+}
+
+h1,
+h2 {
+    font-family: 'Copse', serif;
+}
+
+p {
+    font-family: 'Scope One', serif;
+}
+
+section {
+    background: rgba(255, 255, 255, 0.67);
+    margin: 0 auto;
+    max-width: 550px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+img#sitelogo {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 20px;
+}
+
+select,
+button {
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 150%;
+}
+
+button {
+    margin-top: 10px;
+    border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    margin-left: 90%;
+    margin-top: 10px;
+}
+
+#results,
+#details {
+    display: none;
+}
