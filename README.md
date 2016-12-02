@@ -27,26 +27,26 @@ Planning
 Wireframe v1
 ------------
 
-![Image of locations wireframe](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/Wireframe.jpg "Wireframe")
+![Image of locations wireframe](Wireframe.jpg "Wireframe")
 
 Wireframe v2
 ------------
 
-![Image of locations wireframe v2](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/wireframe1.jpg "Wireframe")
+![Image of locations wireframe v2](wireframe1.jpg "Wireframe")
 
-![Image of locations wireframe v2](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/wireframe22.jpg "Wireframe")
+![Image of locations wireframe v2](wireframe22.jpg "Wireframe")
 
 
 
 Database plan
 ------------
 
-![Image of locations database plan](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/databases.jpg "Database")
+![Image of locations database plan](databases.jpg "Database")
 
 App Idea Brainswarm
 ------------
 
-![Image of locations app idea brainswarm](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/planning.jpg "Brainswarm")
+![Image of locations app idea brainswarm](planning.jpg "Brainswarm")
 
 Initial Prototypes
 ---
@@ -54,14 +54,22 @@ Initial Prototypes
 ![Image of locations](2.png "1st Draft")
 ![Image of locations](2.2.png "1st Draft")
 ![Image of locations](2.3.png "1st Draft")
+
+
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/Filtr%20findr%20app%20v0.1 "Title")
+
 Version 1
 ---
 ![Image of locations](v1.png "2nd Draft")
+
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/Filtr%20Findr%20app%20v0.2 "Title")
 Version 2
 ---
 ![Image of locations](v2.png "3rd Draft")
 ![Image of locations](v2.2.png "3rd Draft")
 ![Image of locations](v2.3.png "3rd Draft")
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/filtr-findr%20app%20v2 "Title")
+
 Version
 ---
 ![Image of locations](v3.png "4th Draft")
