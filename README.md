@@ -89,13 +89,13 @@ Version 3
 Links
 ===
 
-[Formative Presentation](https://docs.google.com/presentation/d/1w2VEdbTsNX34znHJFqFK_ojR29ZbpcwKc3JIjYPrM2o/edit?usp=sharing "Title")
+[Formative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Formative")
 
-[Summative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Title")
+[Summative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Summative")
 
-[App Link](https://rajeevg96.github.io/filtr-findr-app/ "Title")
+[App Link](https://rajeevg96.github.io/filtr-findr-app/ "App Link")
 
-[Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Title")
+[Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Blogs")
 
 [Firebase pusher](https://thimbleprojects.org/rajeevg96/127104)
 
