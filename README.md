@@ -89,15 +89,15 @@ Version 3
 Links
 ===
 
-[Formative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Formative")
+* [Formative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Formative")
 
-[Summative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Summative")
+* [Summative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Summative")
 
-[App Link](https://rajeevg96.github.io/filtr-findr-app/ "App Link")
+* [App Link](https://rajeevg96.github.io/filtr-findr-app/ "App Link")
 
-[Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Blogs")
+* [Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Blogs")
 
-[Firebase pusher](https://thimbleprojects.org/rajeevg96/127104)
+* [Firebase pusher](https://thimbleprojects.org/rajeevg96/127104)
 
 [Codewars Account](https://www.codewars.com/users/RajeevG96) - I didnt do 2 katas per week as I didnt feel I was gaining much knowledge by doing this however I have been on quite a few of the [W3Schools](http://www.w3schools.com/js/) tutorials  and completed the [try jQuery](http://try.jquery.com/) tutorials.
 
