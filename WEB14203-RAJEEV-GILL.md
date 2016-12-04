@@ -1,4 +1,4 @@
-Web-14203
+Web-14203 Rajeev Gill
 ===
 DynamicWeb
 ===
@@ -22,66 +22,84 @@ My new app called **SelfieSpot** works similarly to locations, it uses geolocati
 
 The difference with **SelfieSpot** is that it is a parody aimed to poke fun at tourists who take an unnecessary amount of selfies. As a tourist app it will take users to locations which are supposedly good to take a selfie most people would assume Big Ben, The Shard etc whereas my app being the parody that it is will show users locations such as a carpark in Peckham!
 
-Planning
+If developed this application further I would present the parody element as a joke rather than a judgement of selfie takers as to not alienate my target audience. (aha!)
+
+**All of my working (and not working) code, assets, wireframes and screenshots can be found [here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill) and linked throughout this document.**
+
+
+**Planning**
 =
 Wireframe v1
 ------------
 
-![Image of locations wireframe](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/Wireframe.jpg "Wireframe")
+![Image of locations wireframe](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/Wireframe.jpg?raw=true "Wireframe")
 
 Wireframe v2
 ------------
 
-![Image of locations wireframe v2](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/wireframe1.jpg "Wireframe")
+![Image of locations wireframe v2](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/wireframe1.jpg?raw=true "Wireframe")
 
-![Image of locations wireframe v2](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/wireframe22.jpg "Wireframe")
+![Image of locations wireframe v2](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/wireframe22.jpg?raw=true "Wireframe")
 
 
 
 Database plan
 ------------
 
-![Image of locations database plan](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/databases.jpg "Database")
+![Image of locations database plan](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/databases.jpg?raw=true "Database")
 
 App Idea Brainswarm
 ------------
 
-![Image of locations app idea brainswarm](https://raw.githubusercontent.com/RajeevG96/DynamicWeb-Filtr-Findr/master/planning.jpg "Brainswarm")
+![Image of locations app idea brainswarm](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/planning.jpg?raw=true "Brainswarm")
 
 Initial Prototypes
 ---
 
-![Image of locations](2.png "1st Draft")
-![Image of locations](2.2.png "1st Draft")
-![Image of locations](2.3.png "1st Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/2.png?raw=true "1st Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/2.2.png?raw=true "1st Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/2.3.png?raw=true "1st Draft")
+
+
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/Filtr%20findr%20app%20v0.1 "Title")
+
 Version 1
 ---
 ![Image of locations](v1.png "2nd Draft")
+
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/Filtr%20Findr%20app%20v0.2 "Title")
 Version 2
 ---
-![Image of locations](v2.png "3rd Draft")
-![Image of locations](v2.2.png "3rd Draft")
-![Image of locations](v2.3.png "3rd Draft")
-Version
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v2.png?raw=true "3rd Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v2.2.png?raw=true "3rd Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v2.3.png?raw=true "3rd Draft")
+[See Version Here](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/tree/master/filtr-findr%20app%20v2 "Title")
+
+Version 3
 ---
-![Image of locations](v3.png "4th Draft")
-![Image of locations](v3.2.png "4th Draft")
-![Image of locations](v3.3.png "4th Draft")
-![Image of locations](v3.4.png "4th Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v3.png?raw=true "4th Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v3.2.png?raw=true "4th Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v3.3.png?raw=true "4th Draft")
+![Image of locations](https://github.com/RajeevG96/WEB14203-Rajeev-Gill/blob/master/v3.4.png?raw=true "4th Draft")
 
 
-[See Final Version Here](https://rajeevg96.github.io/filtr-findr-app/ "Title")
+[See Final Version Here](https://rajeevg96.github.io/filtr-findr-app/ "Title") ([Code](https://github.com/RajeevG96/filtr-findr-app))
 =
 
 Links
 ===
-[Formative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Title")
 
-[App Link](https://rajeevg96.github.io/filtr-findr-app/ "Title")
+* [Formative Presentation](https://docs.google.com/presentation/d/1LuSUYUNCwYRjNuLQA189I7l13X8lmqNi725C_uLdwS8/edit?usp=sharing "Formative")
 
-[Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Title")
+* [Summative Presentation](https://docs.google.com/presentation/d/1w2VEdbTsNX34znHJFqFK_ojR29ZbpcwKc3JIjYPrM2o/edit?usp=sharing "Summative")
 
-[Firebase pusher](https://thimbleprojects.org/rajeevg96/127104)
+* [App Link](https://rajeevg96.github.io/filtr-findr-app/ "App Link")
+
+* [Blog Posts](http://rajeevxgill.co.nf/category/the-dynamic-web/ "Blogs")
+
+* [Firebase pusher](https://thimbleprojects.org/rajeevg96/127104)
+
+[Codewars Account](https://www.codewars.com/users/RajeevG96) - I didnt do 2 katas per week as I didnt feel I was gaining much knowledge by doing this however I have been on quite a few of the [W3Schools](http://www.w3schools.com/js/) tutorials  and completed the [try jQuery](http://try.jquery.com/) tutorials.
 
 
 
